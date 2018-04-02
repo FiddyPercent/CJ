@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FiddyPercent/CJ#readme",
   "devDependencies": {
-    "gulp": "^3.9.1"
+    "gulp": "^3.9.1",
+    "sass": "^1.1.1"
   }
 }
