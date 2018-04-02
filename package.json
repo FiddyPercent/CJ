@@ -1,0 +1,22 @@
+{
+  "name": "cj",
+  "version": "1.0.0",
+  "description": "get use to building site site\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Ds sites",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FiddyPercent/CJ.git"
+  },
+  "author": "Fiddy Percent",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FiddyPercent/CJ/issues"
+  },
+  "homepage": "https://github.com/FiddyPercent/CJ#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
